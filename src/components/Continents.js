@@ -37,8 +37,7 @@ const Details = () => {
                     <BsArrowRightCircle className={styles.arrow} />
                     <h1 className={styles.content}>{info}</h1>
                     <p className={styles.paragraph}>
-                      Globally, during the week of 28 February through 6 March
-                      2022, the number of new COVID-19 cases...
+                      Click here to view detailed continental Covid-19 data
                       {' '}
                     </p>
                   </div>

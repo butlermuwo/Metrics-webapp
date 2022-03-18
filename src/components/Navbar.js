@@ -11,7 +11,7 @@ const Navbar = () => (
         <TiArrowBackOutline className={styles.pointer} />
       </Link>
       <Link to="/" className={styles.navText}>
-        Covid-19 Data
+        Daily Updates
       </Link>
       <AiOutlineSetting className={styles.settings} />
       <Outlet />
